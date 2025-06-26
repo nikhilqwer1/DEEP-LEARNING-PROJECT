@@ -4,7 +4,7 @@
 *INTERN ID - CT06DF1885
 *DOMAIN - DATA SCIENCE
 *DURATION - 6 WEEK
-*MENTOR - NEEL SANTOSH
+*MENTOR - NEELA SANTHOSH
 # Description
 Deep learning is a powerful subfield of machine learning that enables computers to learn complex patterns from large datasets using neural networks. In Task 2 of the CodTech Data Science Internship, the goal is to implement a deep learning model for either image classification or natural language processing (NLP) using libraries like TensorFlow or PyTorch. This task helps interns gain practical experience with neural networks, a key component of modern artificial intelligence systems.
 The task begins with choosing one of the two popular deep learning application areas:
